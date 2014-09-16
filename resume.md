@@ -1,71 +1,56 @@
-Markdown Resumé
+Martín Martínez Rivera
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
-
-Interests
----------
-
-*   Creating beautiful resumés from simple Markdown documents
-
-
-Work Experience
----------------
-
-*   **Word Processor** (Redmond, WA)
-
-    Junior Resumé Maker, 2006 - 2007
-
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
-
-*   **\LaTeX\ + pdflatex**
-
-    Senior Resumé Maker, 2008 - 2010
-
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
-
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    Web Resumé Intern, August 2010
-
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    Resumé Architect, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
-
+100 Memorial Drive Apt. 5-4B
+<martinmr@mit.edu>
+(617)-866-0089
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Massachusetts Institute of Technology** (Cambridge, MA)
 
-    B.S. in Submodules, May 2012
+    B.S. in Computer Science and Engineering, Febraury 2015
 
+*   **Massachusetts Institute of Technology** (Cambridge, MA)
 
-Skills
-------
+    M. Eng. in Computer Science and Engineering, June 2015
 
-*   Very experienced with Python, Markdown, \LaTeX
+Work Experience
+---------------
 
-*   Familiar with GNU Make, bash
+* **World Wide Web Consortium** (Cambridge, MA)
 
+    Undergraduate Research Assistant, September 2014 - ongoing
+    
+    - Working on the Crosscloud Project, an effort to make decentralized web applications a reality.
+    - Implementing the necessary algorithms to support the JSON-ld format, a JSON-based serialization for Linked Data. 
 
+* **A9.com** (Palo Alto, CA)
+
+    Software Development Engineer, June 2014 - August 2014
+    
+    - Took an existing system that powers Amazon's visual search technology and made it available as an internal service for other teams at Amazon.
+    - Designed both the features and wrote the implementation of the new service. 
+    - Wrote scripts and unit tests to identify possible bugs and test that service returns desired results.
+    - Deployed the system to a data center to be tested by coworkers and possible costumers.
+    - Run stress tests to measure the performance of the service under real conditions.
+
+* **Amazon** (Seattle, WA)
+
+    Software Development Engineer, May 2013 - August 2013
+
+    - Designed a scalable and configurable analytics and metrics platform to store hierarchical data from multiple data-sets.
+    - Dealt with design ambiguities and took decisions to steer the project in the right direction
+    - Implemented the system on a No-SQL database allowing large sets of data to be processed in a short time.
+    - Implemented a metric system that updates metrics values for desired entries and allows the programmer to easily support his own metrics.
+    - Implemented a flexible querying engine capable of producing results in under 0.1 seconds for large data sets for queries across multiple fields and hierarchy levels.
+    - Created a sample UI to showcase the possible uses of the back-end.
+
+* **ACT.md** (Allston, MA)
+
+    Back-end Programmer Intern, January 2013
+
+    - Designed metrics for a dashboard feature that allows the CEO of the company and other power users of the service to keep track of the company's state.
+    - Implemented and tested the back-end of said dashboard.
+    - Collaborated with the front-end team to create the desired experience.
