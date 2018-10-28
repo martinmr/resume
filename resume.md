@@ -43,15 +43,15 @@ Work Experience
     - Implemented the necessary algorithms to support the JSON-ld format, a JSON-based serialization for Linked Data.
     - Worked on multiple improvements to ldnode, an implementation of the Linked Data Platform backend in node.js.
 
-* **A9.com** (Palo Alto, CA)
+* **A9.com, an Amazon subsidiary** (Palo Alto, CA)
 
-    Software Development Engineer, June 2014 - August 2014
+    Software Development Engineer Intern, June 2014 - August 2014
 
     - Worked on the Visual Search team, responsible for implementing and maintaining the services responsible for visual search on the Amazon mobile app.
 
 * **Amazon** (Seattle, WA)
 
-    Software Development Engineer, May 2013 - August 2013
+    Software Development Engineer Intern, May 2013 - August 2013
 
     - Worked on the Retail team responsible for gathering data about products not sold on Amazon with the aim of spotting the best products to add to the catalogue.
     
