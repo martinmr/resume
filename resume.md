@@ -9,10 +9,10 @@ Education
 ---------
 
 *   **Massachusetts Institute of Technology**: 
-    B.S. in Computer Science. GPA: 4.5/5
+    M. Eng. in Computer Science. GPA: 4.9/5
 
 *   **Massachusetts Institute of Technology**:
-    M. Eng. in Computer Science. GPA: 4.9/5
+    B.S. in Computer Science. GPA: 4.5/5
 
 Work Experience
 ---------------
